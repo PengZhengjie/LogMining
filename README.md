@@ -1,0 +1,2 @@
+# LogMining
+Data mining process 
